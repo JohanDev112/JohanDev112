@@ -3,13 +3,11 @@
    <h1 align="center">JohanDev112</h1>
     <h3 align="center">I just love what do I do.</h3>
 </div>
----
+### 🤓 About Me :
 
-### 👨‍💻 About Me :
+- 📞 Contact me **[Linktr](https://linktr.ee/johangonzalez)**
 
-- Contact me **[Linktr](https://linktr.ee/johangonzalez)**
-
-- I’m learning **.NET**
+- 💻 I’m learning **.NET**
 
 
 <div align="center">
