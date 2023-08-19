@@ -9,7 +9,7 @@
 
 - Contact me **[Linktr](https://linktr.ee/johangonzalez)**
 
-- I’m learning **React.ts**
+- I’m learning **.NET**
 
 
 <div align="center">
