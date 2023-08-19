@@ -3,7 +3,6 @@
    <h1 align="center">JohanDev112</h1>
     <h3 align="center">I just love what do I do.</h3>
 </div>
-### 🤓 About Me :
 
 - 📞 Contact me **[Linktr](https://linktr.ee/johangonzalez)**
 
