@@ -4,7 +4,7 @@
     <h3 align="center">I just love what do I do.</h3>
 </div>
 
-- 📞 Contact me **[Linktr](https://linktr.ee/johangonzalez)**
+- 📞 Contact me on:  **[Linktr](https://linktr.ee/johangonzalez)**
 
 - 💻 I’m learning **.NET**
 
