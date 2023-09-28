@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="200" />
-   <h1 align="center">JohanDev112</h1>
+   <h1 align="center">Johan González</h1>
     <h3 align="center">I just love what do I do.</h3>
 </div>
 
