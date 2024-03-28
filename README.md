@@ -21,7 +21,11 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
       </div>
 </div>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johandev112&show_icons=true&locale=en&layout=compact" alt="johandev112" /></p>
+<div>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johandev112&show_icons=true&locale=en&layout=compact" alt="johandev112" /></p>
+  <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=johandev112&show_icons=true&locale=en" alt="johandev112" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johandev112&show_icons=true&locale=en" alt="johandev112" /></p>
+
