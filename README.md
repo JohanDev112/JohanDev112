@@ -23,6 +23,7 @@
 <br>
 
 <div>
+  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johandev112" alt="johandev112 jeje"/></p>
   <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=johandev112&show_icons=true&locale=en" alt="johandev112" /></p>
 </div>
 
